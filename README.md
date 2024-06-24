@@ -1,6 +1,6 @@
 # PRODIGY_DS_02
 
-DATA UNDERSTANDING
+# DATA UNDERSTANDING
 The datasets is obtained from Kaggle: Titanic
 
 The dataset contains 891 rows (entries) and 12 columns
@@ -19,24 +19,16 @@ Fare: Passenger fare.
 Cabin: Cabin number.
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-EXPLORATORY DATA ANALYSIS
-Univariate Analysis
-Univariate analysis is a data analysis technique that focuses on examining and describing the characteristics and distribution of a single variable in a dataset. In this project, I performed univariate analysis on various variables in the Titanic dataset, including:
-
 Histograms for age distribution.
 Bar plots for passenger class distribution.
 Pie chart for survival rate
-Bivariate Analysis
-Bivariate analysis explores relationships between two variables in the dataset. In this project,I investigate relationships such as:
 
 Scatter plots for age vs. fare.
 Bar plots comparing the number of survivors by passenger class.
 Box plots comparing fares by passenger class.
 Correlation heatmap between age and fare
-Multivariate Analysis
-Multivariate analysis extends the exploration to multiple variables simultaneously.I used techniques like parallel coordinates plots to visualize relationships between multiple variables and survival.
 
-Insights and Conclusions
+# Insights and Conclusions
  % of people did not survive while 
  % percent survived.
 There is a relatively smaller number of children (around 5-15 years old) and elderly passengers (above 60 years old) on the Titanic
